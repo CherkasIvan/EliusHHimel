@@ -21,14 +21,14 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliusHHimel&theme=monokai)
 
-### Wakatime Stats
-
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EliusHHimel&theme=blue-green)
 
 ### My Recent Projects
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EliusHHimel&repo=creative-agency&theme=gradient" />
+<a href="https://github.com/EliusHHimel/creative-agency">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EliusHHimel&repo=creative-agency&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/EliusHHimel/drones-world">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EliusHHimel&repo=drones-world&theme=dark" />
+</a>
+<a href="https://github.com/EliusHHimel/asterisk-travels">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EliusHHimel&repo=asterisk-travels&theme=dark" />
 </a>
