@@ -30,5 +30,6 @@ Here are some ideas to get you started:
 
 | | |
 
-[creative-agency]: https://github-readme-stats.vercel.app/api?username=EliusHHimel&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=vision-friendly-dark
+[creative-agency]: https://github-readme-stats.vercel.app/api/pin/?username=EliusHHimel&repo=creative-agency&cache_seconds=86400&theme=vision-friendly-dark
+
 
