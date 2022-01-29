@@ -15,8 +15,20 @@ Here are some ideas to get you started:
 
 ### My GitHub Statistics
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=EliusHHimel&show_icons=true&theme=highcontrast&repo=github-readme-stats)]
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=EliusHHimel&show_icons=true&theme=highcontrast&repo=github-readme-stats)
 
 ### Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliusHHimel&theme=monokai)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliusHHimel&theme=monokai)
+
+### Wakatime Stats
+
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EliusHHimel&theme=blue-green)
+
+### My Recent Projects
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EliusHHimel&repo=creative-agency&theme=gradient" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EliusHHimel&repo=drones-world&theme=dark" />
+</a>
