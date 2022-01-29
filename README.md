@@ -23,14 +23,12 @@ Here are some ideas to get you started:
 
 
 ### My Recent Projects
-<a href="https://github.com/EliusHHimel/creative-agency">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EliusHHimel&repo=creative-agency&theme=gotham" />
-</a>
-  <a href="https://github.com/EliusHHimel/drones-world">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EliusHHimel&repo=drones-world&theme=gotham" />
-</a>
-<br>
-<br>
-<a href="https://github.com/EliusHHimel/asterisk-travels">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EliusHHimel&repo=asterisk-travels&theme=gotham" />
-</a>
+
+| | | |
+| :--: | :--: | :--: |
+| `Creative Agency` ![creative-agency][creative-agency] | `dark` ![dark][dark] | `radical` ![radical][radical] |
+
+| | |
+
+[creative-agency]: https://github-readme-stats.vercel.app/api?username=EliusHHimel&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=vision-friendly-dark
+
