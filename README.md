@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/Him
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=EliusHHimel)]
+### My GitHub Statistics
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=EliusHHimel&show_icons=true&theme=highcontrast&repo=github-readme-stats)]
+
+### Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliusHHimel&theme=monokai)]
