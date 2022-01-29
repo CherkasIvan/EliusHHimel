@@ -5,12 +5,19 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Creative Agency - Full Stack Project
-- 🌱 I’m currently learning VueJS
+- 🔭 I’m currently working on a personal project.
+- 💼 I'm looking for a job.
 - 👯 I’m looking to collaborate on any Front-end of Full Stack Project/s.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📚 I’m currently learning VueJS
+- 📫 How to reach me: <a href="https://www.facebook.com/EliusHHimel/">
+  Facebook
+</a>, <a href="https://twitter.com/EliusHHimel">
+  Twitter
+</a>, <a href="https://www.linkedin.com/in/EliusHHimel/">
+  LinkedIn
+</a>, <a href="https://eliushhimel.github.io/">
+  Personal Website
+</a>
 - 😄 Pronouns: He/Him
 
 ### My GitHub Statistics
