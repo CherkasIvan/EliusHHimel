@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 ### My Recent Projects
 
 | | | |
+| :--: | :--: | :--: |
 | `Creative Agency` ![creative-agency][creative-agency] | `Drones World` ![drones-world][drones-world] | `Asterisk Travels` ![asterisk-travels][asterisk-travels] |
 | `Optifine Health Care` ![optifine-health-care][optifine-health-care] | `GitFolio` ![GitFolio][GitFolio] | `Football Hero` ![Football-Hero][Football-Hero] |
 | | |
