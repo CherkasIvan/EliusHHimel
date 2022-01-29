@@ -25,10 +25,8 @@ Here are some ideas to get you started:
 ### My Recent Projects
 
 | | | |
-| :--: | :--: | :--: |
 | `Creative Agency` ![creative-agency][creative-agency] | `Drones World` ![drones-world][drones-world] | `Asterisk Travels` ![asterisk-travels][asterisk-travels] |
 | `Optifine Health Care` ![optifine-health-care][optifine-health-care] | `GitFolio` ![GitFolio][GitFolio] | `Football Hero` ![Football-Hero][Football-Hero] |
-
 | | |
 
 [creative-agency]: https://github-readme-stats.vercel.app/api/pin/?username=EliusHHimel&repo=creative-agency&cache_seconds=86400&theme=vision-friendly-dark&show_icons=true
