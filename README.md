@@ -30,6 +30,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EliusHHimel&repo=drones-world&theme=gotham" />
 </a>
 <br>
+<br>
 <a href="https://github.com/EliusHHimel/asterisk-travels">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EliusHHimel&repo=asterisk-travels&theme=gotham" /><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EliusHHimel&repo=asterisk-travels&theme=gotham" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EliusHHimel&repo=asterisk-travels&theme=gotham" />
 </a>
