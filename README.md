@@ -34,11 +34,11 @@
 | `Optifine Health Care` ![optifine-health-care][optifine-health-care] | `GitFolio` ![GitFolio][GitFolio] | `Football Hero` ![Football-Hero][Football-Hero] |
 | | |
 
-[creative-agency]: https://github-readme-stats.vercel.app/api/pin/?username=EliusHHimel&repo=creative-agency&cache_seconds=86400&theme=vision-friendly-dark&show_icons=true
-[drones-world]: https://github-readme-stats.vercel.app/api/pin/?username=EliusHHimel&repo=drones-world&cache_seconds=86400&theme=vision-friendly-dark&show_icons=true
-[asterisk-travels]: https://github-readme-stats.vercel.app/api/pin/?username=EliusHHimel&repo=asterisk-travels&cache_seconds=86400&theme=vision-friendly-dark&show_icons=true
-[optifine-health-care]: https://github-readme-stats.vercel.app/api/pin/?username=EliusHHimel&repo=optifine-health-care&cache_seconds=86400&theme=vision-friendly-dark&show_icons=true
-[GitFolio]: https://github-readme-stats.vercel.app/api/pin/?username=EliusHHimel&repo=GitFolio&cache_seconds=86400&theme=vision-friendly-dark&show_icons=true
-[Football-Hero]: https://github-readme-stats.vercel.app/api/pin/?username=EliusHHimel&repo=Football-Hero&cache_seconds=86400&theme=vision-friendly-dark&show_icons=true
+[creative-agency]: https://github-readme-stats.vercel.app/api/pin/?username=EliusHHimel&repo=creative-agency&theme=vision-friendly-dark&show_icons=true
+[drones-world]: https://github-readme-stats.vercel.app/api/pin/?username=EliusHHimel&repo=drones-world&theme=vision-friendly-dark&show_icons=true
+[asterisk-travels]: https://github-readme-stats.vercel.app/api/pin/?username=EliusHHimel&repo=asterisk-travels&theme=vision-friendly-dark&show_icons=true
+[optifine-health-care]: https://github-readme-stats.vercel.app/api/pin/?username=EliusHHimel&repo=optifine-health-care&theme=vision-friendly-dark&show_icons=true
+[GitFolio]: https://github-readme-stats.vercel.app/api/pin/?username=EliusHHimel&repo=GitFolio&theme=vision-friendly-dark&show_icons=true
+[Football-Hero]: https://github-readme-stats.vercel.app/api/pin/?username=EliusHHimel&repo=Football-Hero&theme=vision-friendly-dark&show_icons=true
 
 
