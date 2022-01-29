@@ -1,14 +1,12 @@
-### Hi there 👋
-
+### Hi there 👋 Welcome to my profile!
 
 <!--**EliusHHimel/EliusHHimel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
-Here are some ideas to get you started:
-
+- 👨 I'm Elius H Himel, a 💻 developer.
 - 🔭 I’m currently working on a personal project.
 - 💼 I'm looking for a job.
 - 👯 I’m looking to collaborate on any Front-end of Full Stack Project/s.
 - 📚 I’m currently learning VueJS
+- 😄 Pronouns: He/Him
 - 📫 How to reach me: <a href="https://www.facebook.com/EliusHHimel/">
   Facebook
 </a>, <a href="https://twitter.com/EliusHHimel">
@@ -18,7 +16,6 @@ Here are some ideas to get you started:
 </a>, <a href="https://eliushhimel.github.io/">
   Personal Website
 </a>
-- 😄 Pronouns: He/Him
 
 ### My GitHub Statistics
 
