@@ -8,11 +8,10 @@
 - 📚 I’m currently learning VueJS
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: 
-<img src="https://img.shields.io/youtube/channel/subscribers/UCLpJxVPrSZvDwFPgdeaJRRg?label=HmEliusHossainHimel&style=social">
+<a href='https://www.youtube.com/hmeliushossainhimel'><img src="https://img.shields.io/youtube/channel/subscribers/UCLpJxVPrSZvDwFPgdeaJRRg?label=HmEliusHossainHimel&style=social"></img> </a>
 <a href="https://www.facebook.com/EliusHHimel/">
   Facebook
 </a>
-</img>
 , <a href="https://twitter.com/EliusHHimel">
   Twitter
 </a>, <a href="https://www.linkedin.com/in/EliusHHimel/">
