@@ -8,12 +8,12 @@
 - 📚 I’m currently learning VueJS
 - 😄 Pronouns: He/Him
 ### Find me on Social Media
--  
+ 
 <a href='https://www.youtube.com/hmeliushossainhimel'><img src="https://img.shields.io/youtube/channel/subscribers/UCLpJxVPrSZvDwFPgdeaJRRg?label=HmEliusHossainHimel&style=social"></img></a>
 <a href="https://www.facebook.com/EliusHHimel/">
-
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/EliusHHimel?style=social?logo=facebook">
 </a>
-, <a href="https://twitter.com/EliusHHimel">
+ <a href="https://twitter.com/EliusHHimel">
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/EliusHHimel?style=social">
 </a>, <a href="https://www.linkedin.com/in/EliusHHimel/">
   LinkedIn
