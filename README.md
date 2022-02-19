@@ -7,9 +7,13 @@
 - 👯 I’m looking to collaborate on any Front-end of Full Stack Project/s.
 - 📚 I’m currently learning VueJS
 - 😄 Pronouns: He/Him
-- 📫 How to reach me: <a href="https://www.facebook.com/EliusHHimel/">
+- 📫 How to reach me: 
+<img src="https://img.shields.io/youtube/channel/subscribers/UCLpJxVPrSZvDwFPgdeaJRRg?label=HmEliusHossainHimel&style=social">
+<a href="https://www.facebook.com/EliusHHimel/">
   Facebook
-</a>, <a href="https://twitter.com/EliusHHimel">
+</a>
+</img>
+, <a href="https://twitter.com/EliusHHimel">
   Twitter
 </a>, <a href="https://www.linkedin.com/in/EliusHHimel/">
   LinkedIn
