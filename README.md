@@ -36,7 +36,7 @@
 ### Porfile Visitor Count
 ![](https://komarev.com/ghpvc/?username=EliusHHimel&style=for-the-badge&label=Profile+Visit&color=DC143C)
 ```
-![Visitor Count](https : //profile-counter.glitch.me/EliusHHimel/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/EliusHHimel/count.svg)
 ```
 ### My Recent Projects
 
