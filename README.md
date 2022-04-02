@@ -34,7 +34,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliusHHimel&theme=monokai)
 
 ### Porfile Visitor Count
-![](https://komarev.com/ghpvc/?username=EliusHHimel&style=flat-square&label=Profile+Visit&color=DC143C)
+![](https://komarev.com/ghpvc/?username=EliusHHimel&style=for-the-badge&label=Profile+Visit&color=DC143C)
 ### My Recent Projects
 
 | | | |
