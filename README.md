@@ -1,4 +1,4 @@
-### Hi there 👋 Welcome to my profile!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=267A76&background=33FF3100&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B+Welcome+to+my+profile!;I+am+Elius+H+Himel;Web+Developer)](https://git.io/typing-svg)
 
 <!--**EliusHHimel/EliusHHimel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 - 👨 I'm Elius H Himel, a 💻 developer.
