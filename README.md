@@ -8,22 +8,25 @@
 - 📚 I’m currently learning VueJS
 - 😄 Pronouns: He/Him
 ### Find me on Social Media
- 
-<a href='https://www.youtube.com/hmeliushossainhimel'>
- <img src="https://img.shields.io/youtube/channel/subscribers/UCLpJxVPrSZvDwFPgdeaJRRg?label=HmEliusHossainHimel&style=social"></img>
-</a>
-<a href="https://www.facebook.com/EliusHHimel/">
-  <img alt="Facebook" src="https://img.shields.io/github/followers/EliusHHimel?label=EliusHHimel&logo=Facebook&style=social">
-</a>
- <a href="https://twitter.com/EliusHHimel">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/EliusHHimel?style=social">
-</a> 
-<a href="https://www.linkedin.com/in/EliusHHimel/">
-<img alt="LinkedIn" src="https://img.shields.io/github/followers/EliusHHimel?label=EliusHHimel&logo=LinkedIn&style=social">
-</a>
-<a href="https://eliushhimel.github.io/">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/EliusHHimel?label=eliushhimel.github.io&logo=HomeAdvisor&style=social">
-</a>
+<p align="center">
+ <a target="_blank" href="https://facebook.com/EliusHHimel"><img width="50px" src="https://i.ibb.co/mCWS8dP/Facebook.png" alt="Facebook" border="0"></a>
+<a target="_blank" href="https://linkedin.com/in/EliusHHimel"><img width="50px" src="https://i.ibb.co/y5PbksN/Linkedin.png" alt="Linkedin" border="0"></a>
+<a target="_blank" href="https://youtube.com/HmEliusHossainHimel"><img width="50px" src="https://i.ibb.co/R0f8dFN/Youtube.png" alt="Youtube" border="0"></a>
+<a target="_blank" href="https://twitter.com/EliusHHimel"><img width="50px" src="https://i.ibb.co/CmSvDh4/Twitter.png" alt="Twitter" border="0"></a>
+<a target="_blank" href="https://instagram.com/EliusHHimel"><img width="50px" src="https://i.ibb.co/HNZ3rrt/Insta-Gram.png" alt="InstaGram" border="0"></a>
+<a target="_blank" href="https://pinterest.com/EliusHHimel"><img width="50px" src="https://i.ibb.co/q9NZdzG/Pinterest.png" alt="Pinterest" border="0"></a>
+ </p>
+
+<p align="center">
+  <a href="https://www.youtube.com/c/hmeliushossainhimel?sub_confirmation=1">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCLpJxVPrSZvDwFPgdeaJRRg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+  <a href="https://www.youtube.com/c/hmeliushossainhimel">
+    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.herokuapp.com/youtube/channel/views/UCLpJxVPrSZvDwFPgdeaJRRg?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+  <a href="https://github.com/EliusHHimel?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/EliusHHimel?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/EliusHHimel?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/EliusHHimel?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+</p>
 
 ### My GitHub Statistics
 
