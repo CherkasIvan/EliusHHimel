@@ -33,8 +33,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliusHHimel&theme=monokai)
 
-### Porfile Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/EliusHHimel/count.svg)
 
 ### My Recent Projects
 
