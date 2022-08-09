@@ -32,7 +32,7 @@
 
 ### Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliusHHimel&theme=monokai)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliusHHimel&theme=chartreuse-dark&layout=compact)
 
 ## 🛠️ Tools
 
