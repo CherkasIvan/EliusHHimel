@@ -26,6 +26,9 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/EliusHHimel?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/EliusHHimel?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/EliusHHimel?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+ <a href="https://eliushhimel.com">
+    <img alt="followers" title="Visit My Portfolio" src="https://custom-icon-badges.herokuapp.com/github/stars/EliusHHimel?color=55960c&style=for-the-badge&labelColor=581845&logo=globe&label=Visit%20Portfolio"/></a>
+ 
 </p>
 
 ### My GitHub Statistics
